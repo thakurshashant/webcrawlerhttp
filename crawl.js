@@ -1,7 +1,17 @@
 const { JSDOM } = require ('jsdom')
 
-async function crawlPage(currentURL){
+async function crawlPage(baseURL, currentURL,pages){
     console.log(`actively crawling: ${currentURL}`)
+ 
+    // we want to make sure that we are currently in same domain and we arent in any different domain 
+
+    const baseURLObj = new URL (baseURL) 
+    const currentURLObj = new URL (currentURL) 
+    if(baseURLObj.hostname !== currentURLObj.hostname){
+        return pages
+    }
+
+    // now we want to keep a record of what pages i have already explored
 
     try {
         const resp = await fetch (currentURL)
