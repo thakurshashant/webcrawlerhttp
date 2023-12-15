@@ -23,6 +23,13 @@ Embark on a digital odyssey as Web Crawler HTTP traverses websites, unveiling th
 ### 1. Clone the Repository:
 
 ```bash
-git clone https://github.com/your-username/web-crawler-http.git
+git clone https://github.com/thakurshashant/webcrawlerhttp.git
 cd web-crawler-http
+###install Dependencies jest , jsdom
+npm install
+npm run start [specified-url]
+
+
+
+
 ```
