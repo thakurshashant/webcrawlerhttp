@@ -24,23 +24,6 @@ Welcome to the world of digital exploration with Web Crawler HTTP! Follow these 
 
 ## Installing Web Crawler HTTP
 
-### 1. Cloning the Repository 🕵️‍♂️
-
-```bash
-git clone https://github.com/thakurshashant/web-crawler-http.git
-cd web-crawler-http
-```
-
-🧙‍♂️ Install Dependencies
-npm install
-
-Certainly! Here's a creative and whimsical script for the working part of your Web Crawler HTTP project:
-
-bash
-Copy code
-
-# Prepare for a Digital Adventure with Web Crawler HTTP 🚀
-
 ## 🕵️‍♂️ Clone the Repository
 
 ```bash
@@ -54,4 +37,4 @@ npm run start {specified-url}
 
 ```
 
-Feel free to integrate this script into your README or documentation, adjusting placeholders and details as needed. Let the whimsy of the script reflect the adventurous spirit of your Web Crawler HTTP project!
+### Feel free to integrate this script into your README or documentation, adjusting placeholders and details as needed. Let the whimsy of the script reflect the adventurous spirit of your Web Crawler HTTP project!
