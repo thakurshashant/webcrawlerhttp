@@ -18,18 +18,40 @@ Embark on a digital odyssey as Web Crawler HTTP traverses websites, unveiling th
 - **NVM Compatibility:** Seamlessly manage Node.js versions with NVM.
 - **JSDOM Integration:** Elevate parsing capabilities with JSDOM.
 
-## Getting Started 🚀
+# Getting Started with Web Crawler HTTP 🚀
 
-### 1. Clone the Repository:
+Welcome to the world of digital exploration with Web Crawler HTTP! Follow these whimsical steps to install, work, and uncover the magical URLs hidden within websites.
+
+## Installing Web Crawler HTTP
+
+### 1. Cloning the Repository 🕵️‍♂️
 
 ```bash
-git clone https://github.com/thakurshashant/webcrawlerhttp.git
+git clone https://github.com/thakurshashant/web-crawler-http.git
 cd web-crawler-http
-###install Dependencies jest , jsdom
+```
+
+🧙‍♂️ Install Dependencies
 npm install
-npm run start [specified-url]
 
+Certainly! Here's a creative and whimsical script for the working part of your Web Crawler HTTP project:
 
+bash
+Copy code
 
+# Prepare for a Digital Adventure with Web Crawler HTTP 🚀
+
+## 🕵️‍♂️ Clone the Repository
+
+```bash
+git clone https://github.com/your-username/web-crawler-http.git
+cd web-crawler-http
+🧙‍♂️ Install Dependencies
+npm install
+🧪 Cast the Testing Spell
+npm run test
+npm run start {specified-url}
 
 ```
+
+Feel free to integrate this script into your README or documentation, adjusting placeholders and details as needed. Let the whimsy of the script reflect the adventurous spirit of your Web Crawler HTTP project!
