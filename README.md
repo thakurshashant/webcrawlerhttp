@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="web-crawler-logo.png" alt="Web Crawler HTTP Logo" width="200">
+  <img src="[web-crawler-logo.png](https://cdn-icons-png.flaticon.com/512/48/48722.png)" alt="Web Crawler HTTP Logo" width="200">
 </p>
 
 # Web Crawler HTTP 🌐
