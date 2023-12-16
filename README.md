@@ -4,7 +4,7 @@
 
 # Web Crawler HTTP 🌐
 
-Dive into the digital depths with Web Crawler HTTP, your ultimate companion for navigating the intricate web of URLs. This JavaScript-powered explorer, backed by Node.js, Jest, and JSDOM, will unravel the secrets hidden within websites.
+Dive into the digital depths with Web Crawler HTTP, your ultimate companion for navigating the intricate web of URLs. This JavaScript-powered explorer, backed by Node.js, Jest, and JSDOM, will unravel the secrets hidden within websites, seamlessly integrating the powerful Fetch API for efficient data retrieval and interaction with web resources.
 
 ## Purpose 🚀
 
@@ -17,6 +17,7 @@ Embark on a digital odyssey as Web Crawler HTTP traverses websites, unveiling th
 - **Testing with Jest:** Ensure reliability and accuracy through Jest tests.
 - **NVM Compatibility:** Seamlessly manage Node.js versions with NVM.
 - **JSDOM Integration:** Elevate parsing capabilities with JSDOM.
+- **Fetch API's Versatility:** Enabling streamlined and asynchronous data fetching for seamless communication with web resources.
 
 # Getting Started with Web Crawler HTTP 🚀
 
